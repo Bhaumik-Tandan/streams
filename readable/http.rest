@@ -1,0 +1,7 @@
+POST http://localhost:3000/data
+
+content-type:application/json
+{
+    "name": "test",
+    "age": 2
+}
